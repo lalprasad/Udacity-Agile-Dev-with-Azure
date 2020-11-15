@@ -1,3 +1,5 @@
+
+![Alt text](screenshots/Github Actions Passed badge.svg?raw=true "Github Actions Test Passed")
 # Overview
 
 This project illustrates the end to end CI & CD using Azure CLI, Github Repository & Actions and Azure Devops Pipeline.
