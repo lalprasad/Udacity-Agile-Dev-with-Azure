@@ -12,8 +12,8 @@ Below are the high level steps
 ## Project Plan
 A project plan defines project goals and objectives, specifies tasks and how goals will be achieved, identifies what resources will be needed and associated budgets and timelines for completion
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* [Link Project Plan Google Sheets](https://docs.google.com/spreadsheets/d/1aA0WSXAc28xzMDn904-toVYe_riCKqmD7kQ_-z7ctaQ/edit?usp=sharing).
+* [Link Project Plan Trello Board](https://trello.com/b/YhWFEYlw/udacity-ci-cd-project).
 
 ## Instructions
 
