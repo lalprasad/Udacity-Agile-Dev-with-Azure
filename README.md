@@ -49,8 +49,8 @@ Port: 443
 
 ## Enhancements
 
-Create environments like Breakfix --> Staging --> Production.
-Improve the code review with pull requests so that a reviewer can validate the code (check for errors during merging etc.)
+- Create environments like Breakfix --> Staging --> Production.
+- Improve the code review with pull requests so that a reviewer can validate the code (check for errors during merging etc.)
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
