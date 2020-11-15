@@ -10,7 +10,7 @@ Below are the high level steps
 - Create Azure Pipeline
 
 ## Project Plan
-<TODO: Project Plan
+A project plan defines project goals and objectives, specifies tasks and how goals will be achieved, identifies what resources will be needed and associated budgets and timelines for completion
 
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
