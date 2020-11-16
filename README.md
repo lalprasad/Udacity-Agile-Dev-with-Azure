@@ -49,18 +49,15 @@ The command ```git clone git@github.com:lalprasad/Udacity-Agile-Dev-with-Azure.g
 * Running Azure App Service from Azure Pipelines automatic deployment
 ![Alt text](Screenshots/Successful_deployment_to_webapp.PNG?raw=true "Running Azure App Service from Azure Pipelines automatic deployment")
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
+* Successful prediction from deployed flask app in Azure Cloud Shell.  
 
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
+![Alt text](Screenshots/Prediction_results.PNG?raw=true "Successful prediction from deployed flask app in Azure Cloud Shell")
+
+
 
 * Output of streamed log files from deployed application
 
-> 
+
 
 ## Enhancements
 
