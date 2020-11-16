@@ -21,7 +21,7 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 
 ## Instructions
 
-<TODO:  
+  
 * Architectural Diagram (Shows how key parts of the system work)>
 ![Alt text](Screenshots/Architecture.PNG?raw=true "Architecture Diagram")
 
@@ -82,5 +82,7 @@ Use appropriate values for Number of total users to simulate & Spawn rate (users
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
+
+* [Project Demo](https://youtu.be/4Kga5t0joBo).
 
 
