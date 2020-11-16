@@ -37,7 +37,8 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 
 * Output of a test run
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines.  
+![Alt text](Screenshots/Successful_AzureDevOps_pipeline_run.PNG?raw=true "Build and Deploy via azure devops pipelines")
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
