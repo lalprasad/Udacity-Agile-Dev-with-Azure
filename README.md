@@ -31,6 +31,7 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![Alt text](Screenshots/Make file.PNG?raw=true "make all")
 
 * Output of a test run
 
