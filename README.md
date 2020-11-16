@@ -41,6 +41,7 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 ![Alt text](Screenshots/Successful_AzureDevOps_pipeline_run.PNG?raw=true "Build and Deploy via azure devops pipelines")
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+![Alt text](Screenshots/Successful_deployment_to_webapp.PNG?raw=true "Running Azure App Service from Azure Pipelines automatic deployment")
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
