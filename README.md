@@ -63,6 +63,11 @@ Also via Azure Portal's Monitoring --> Log Streaming section
 
 ![Alt text](Screenshots/LogStream.PNG?raw=true "Log Streaming")
 
+Alternatively Log Stream can can be accessed via CLI using the command
+
+```az webapp log tail --name appname --resource-group myResourceGroup```
+![Alt text](Screenshots/LogTraceviaCLI.PNG?raw=true "Log Streaming")
+
 
 ## Enhancements
 
