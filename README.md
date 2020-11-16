@@ -14,7 +14,7 @@ Below are the high level steps.
 - Create Azure Pipeline
 
 ## Project Plan
-A project plan defines project goals and objectives, specifies tasks and how goals will be achieved, identifies what resources will be needed and associated budgets and timelines for completion
+A project plan defines project goals and objectives, specifies tasks and how goals will be achieved, identifies what resources will be needed and associated budgets and timelines for completion.
 
 * [Link Project Plan Google Sheets](https://docs.google.com/spreadsheets/d/1aA0WSXAc28xzMDn904-toVYe_riCKqmD7kQ_-z7ctaQ/edit?usp=sharing).
 * [Link Project Plan Trello Board](https://trello.com/b/YhWFEYlw/udacity-ci-cd-project).
