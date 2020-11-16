@@ -81,8 +81,6 @@ Use appropriate values for Number of total users to simulate & Spawn rate (users
 - Improve the code review with pull requests so that a reviewer can validate the code (check for errors during merging etc.)
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
-
 * [Project Demo](https://youtu.be/4Kga5t0joBo).
 
 
