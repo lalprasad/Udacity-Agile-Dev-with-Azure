@@ -31,6 +31,9 @@ Use the command ```az webapp up -n <app name>``` to run Azure Web App Service
 ![Alt text](Screenshots/Successful_running_Webapp.PNG?raw=true "Project running on Azure App Service")
 
 * Project cloned into Azure Cloud Shell 
+
+The command ```git clone git@github.com:lalprasad/Udacity-Agile-Dev-with-Azure.git``` is used to clone the remote repo to local.
+
 ![Alt text](Screenshots/Successful_cloning.PNG?raw=true "Clone Repo")
 
 
