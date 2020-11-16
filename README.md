@@ -26,7 +26,7 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 
 * Project running on Azure App Service
 
-* Project cloned into Azure Cloud Shell
+* Project cloned into Azure Cloud Shell Screenshots/Successful_cloning.PNG
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
