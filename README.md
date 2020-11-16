@@ -68,6 +68,12 @@ Alternatively Log Stream can can be accessed via CLI using the command
 ```az webapp log tail --name appname --resource-group myResourceGroup```
 ![Alt text](Screenshots/LogTraceviaCLI.PNG?raw=true "Log Streaming")
 
+Locust, a popular load testing tool could be used for testing the webapp. Installation steps can be found  [here](https://medium.com/better-programming/introduction-to-locust-an-open-source-load-testing-tool-in-python-2b2e89ea1ff).
+Use appropriate values for Number of total users to simulate & Spawn rate (users spawned/second).Below is the screen that shows progress of testing.
+![Alt text](Screenshots/Locust testing for azure web app.PNG?raw=true "Load testing")
+
+
+
 
 ## Enhancements
 
