@@ -5,7 +5,7 @@
 # Overview
 
 This project illustrates the end to end CI & CD using Azure CLI, Github Repository & Actions and Azure Devops Pipeline.
-Below are the high level steps 
+Below are the high level steps.
 
 - Create Github Repo
 - Create Cloud Shell environment
