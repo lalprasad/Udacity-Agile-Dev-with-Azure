@@ -36,7 +36,8 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 ![Alt text](Screenshots/Makefile.PNG?raw=true "make all")
 
-* Output of a test run
+* Successful run of Github Actions
+![Alt text](Screenshots/Successful_Github_Actions.PNG?raw=true "Successful run of Github Actions")
 
 * Successful deploy of the project in Azure Pipelines.  
 ![Alt text](Screenshots/Successful_AzureDevOps_pipeline_run.PNG?raw=true "Build and Deploy via azure devops pipelines")
