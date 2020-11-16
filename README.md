@@ -23,6 +23,7 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 
 <TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
+![Alt text](Screenshots/Architecture.PNG?raw=true "Architecture Diagram")
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
