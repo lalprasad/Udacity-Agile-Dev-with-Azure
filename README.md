@@ -27,6 +27,7 @@ A project plan defines project goals and objectives, specifies tasks and how goa
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
+![Alt text](Screenshots/Successful_running_Webapp.PNG?raw=true "Project running on Azure App Service")
 
 * Project cloned into Azure Cloud Shell 
 ![Alt text](Screenshots/Successful_cloning.PNG?raw=true "Clone Repo")
