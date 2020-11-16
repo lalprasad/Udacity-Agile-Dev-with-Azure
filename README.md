@@ -54,9 +54,14 @@ The command ```git clone git@github.com:lalprasad/Udacity-Agile-Dev-with-Azure.g
 ![Alt text](Screenshots/Prediction_results.PNG?raw=true "Successful prediction from deployed flask app in Azure Cloud Shell")
 
 
-
 * Output of streamed log files from deployed application
+Streamed Logs can be accessed via Azure Portal's Advanced Tools (kudu)
 
+![Alt text](Screenshots/Log_Stream_tail.PNG?raw=true "Kudu")
+
+Also via Azure Portal's Monitoring --> Log Streaming section
+
+![Alt text](Screenshots/LogStream.PNG?raw=true "Log Streaming")
 
 
 ## Enhancements
